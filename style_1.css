@@ -1,0 +1,138 @@
+body  
+{  
+    margin:auto;  
+    padding: 2px;;  
+    background-image:url('https://basyspro.com/wp-content/uploads/2020/03/Augmenting-Software-Background-scaled.jpg');
+    line-height:normal;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    font-family:verdana;  
+} 
+.ssit_pics{
+    position:absolute;
+    align-items:center
+    top 0;
+    left: 0;
+    right: 15px;
+    height: 40px;
+    width: 40px;
+} 
+.login{  
+        width: 390px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:black;  
+        border-radius: 15px ;  
+        border-style: solid;
+          
+}  
+h2{  
+    position: relative;
+    text-align: center;  
+    color: powderblue;  
+    padding: 5px; 
+    align-items: center; 
+ 
+   
+}  
+label{  
+    color: powderblue;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: 15px solid whitesmoke;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color:beige;  
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: white;  
+}  
+
+.icons{
+    position:relative;
+    display:bottom middle;
+    flex-direction: column;
+    height: 4px; ;
+    width: 4px;
+    top: 10;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid #73AD21;
+}
+
+#facebook_ssit{
+    
+    align-items: center;
+    font-size: small;
+    height: 5px;
+    width: 3px;
+    border-radius:0.5%;
+    padding: 1px; 
+    display:inline-block 
+ 
+   
+}
+
+#linkedin_ssit{
+    align-items: center;
+    font-size: small;
+    height: 5px;
+    width: 3px;
+    border-radius:0.5%;
+    padding: 1px; 
+    display:inline-block 
+   
+}
+
+#instagram_ssit{
+    align-items: center;
+    font-size: small;
+    height: 5px;
+    width: 3px;
+    border-radius:0.5%;
+    padding: 1px; 
+    display:inline-block 
+    
+   
+}
+#you_tube{
+
+    align-items: center;
+    font-size: small;
+    height: 5px;
+    width: 3px;
+    border-radius:0.5%;
+    padding: 1px; 
+    display:inline-block 
+    
+    
+    
+}
